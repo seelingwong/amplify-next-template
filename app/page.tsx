@@ -1,6 +1,5 @@
 "use server";
 
-import { generateClient } from "aws-amplify/data";
 import "./../app/app.css";
 import { Amplify } from "aws-amplify";
 import outputs from "@/amplify_outputs.json";
